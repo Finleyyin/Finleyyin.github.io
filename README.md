@@ -1,10 +1,9 @@
 # Finleyyin.github.io
-
-## 共享工具
-### ghost文件 
-- "http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=90042753006010921017913691474487"
-- http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=08802326519361747785159740101490
+## 共享文件下载地址
+### Ghost文件
+-[Win8.part1.exe](http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=60156010046484410220782020593557)
+-[Win8.part2](http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=30504612005004100472462883967170）
 ### 远程工具
-- http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=93962084622082454901207911763031 
-### WEB共享工具 
-- http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=00235048083977714118216009496761
+-[AnyDesk](http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=02170837795222316016829245060404)
+### WEB共享工具
+-[Cute Http File Share](http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=04173071240820255140921272076806)
