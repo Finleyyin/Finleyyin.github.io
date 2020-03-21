@@ -16,5 +16,5 @@
 - [VLC多媒体播放器](http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=38070546022781379002211260604422)
 - [Windows文件搜索软件](http://file.mail.10086.cn/share2/fileexpress/filedownload.htm?sendid=66220700257400297148408642370103)
 ### 驱动安装工具
-- [驱动精灵](hhttp://www.drivergenius.com/)
+- [驱动精灵](http://www.drivergenius.com/)
 - [驱动人生](https://www.160.com/)
